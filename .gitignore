@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE configs
+.vscode/
+
+# Ignore local outputs
+*.avi
+*.mp4
+*.jpg
+*.png
+snapshots/
+recordings/
